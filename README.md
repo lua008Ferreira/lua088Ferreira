@@ -17,6 +17,8 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -25,7 +27,7 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 
 ### 📌 Áreas de Atuação & Interesse
 - 📊 **Análise de Dados:** Tratamento, exploração de dados e criação de visualizações estratégicas.
-- ⚙️ **Engenharia de Dados:** Construção de pipelines de dados, ETL e modelagem.
+- ⚙️ **Engenharia de Dados:** Construção de pipelines de dados, ETL, containers (Docker) e soluções em nuvem (Azure).
 - 💡 **Inteligência Estratégica:** Aplicação de dados no apoio à tomada de decisão e planejamento de negócios.
 
 ---
@@ -33,6 +35,7 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 ### 🗣️ Idiomas
 - 🇧🇷 **Português:** Nativo
 - 🇪🇸 **Espanhol:** Intermediário
+- 🇺🇸 **Inglês:** Básico
 
 ---
 
