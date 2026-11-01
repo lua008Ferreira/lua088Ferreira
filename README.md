@@ -35,15 +35,15 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 ---
 ### 📊 Estatísticas no GitHub
 
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lua088Ferreira&theme=dracula" alt="Resumo do Perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lua088Ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Luana" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lua088Ferreira&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lua088Ferreira&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua088Ferreira&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 
