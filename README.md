@@ -37,14 +37,7 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 ### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lua088Ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua088Ferreira&layout=compact&theme=dracula&hide=html,css"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lua088Ferreira&theme=dracula" alt="Sequência de contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lua088Ferreira&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
