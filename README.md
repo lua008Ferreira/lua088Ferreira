@@ -32,19 +32,6 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 - ⚙️ **Engenharia de Dados:** Construção de pipelines, ETL, processamento em nuvem (Azure / Databricks) e containers (Docker).
 - 💡 **Inteligência Estratégica:** Aplicação de dados no apoio à tomada de decisão e planejamento de negócios.
 
----
-### 📊 Estatísticas no GitHub
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lua088Ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Luana" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua088Ferreira&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</div>
 
 
 ---
