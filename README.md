@@ -33,12 +33,19 @@ Unindo visão de gestão, inteligência estratégica e dados para transformar in
 - 💡 **Inteligência Estratégica:** Aplicação de dados no apoio à tomada de decisão e planejamento de negócios.
 
 ---
-
-### 📊 Estatísticas & Atividade no GitHub
+### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lua088Ferreira&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lua088Ferreira&theme=dracula" alt="Resumo do Perfil" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lua088Ferreira&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lua088Ferreira&theme=dracula" alt="Linguagens mais usadas" />
+</div>
+
 
 ---
 
